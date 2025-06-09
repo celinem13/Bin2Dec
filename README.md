@@ -30,3 +30,4 @@ constraints:
 ## Bonus features
 
 -   [ ] User can enter a variable number of binary digits
+-   [ ] Should try to write the code in Java, Python, and C++ to practice.
